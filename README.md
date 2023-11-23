@@ -1,4 +1,4 @@
-### Hi there 👋 I am Ujjal Roy.| M.Tech Student | 
+### Hi there 👋 I am Ujjal Roy.| M.Tech Student | CSE | CIT Kokrajhar |
  **I’m currently working on Blockchain, AI, ML & IoT. 
  You can Contact me via erujjalroy@gmail.com**
 
