@@ -10,4 +10,5 @@ Here are some ideas to get you started:
 -
 -->
 
-[![GitHub Streak](https://api.githubtrends.io/user/svg/UjjalRoy22/langs?time_range=one_year&use_percent=True&theme=bright_lights)
+![GitHub Streak](https://api.githubtrends.io/user/svg/UjjalRoy22/langs?time_range=one_year&use_percent=True&theme=bright_lights)
+
