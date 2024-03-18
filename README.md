@@ -11,9 +11,9 @@ Here are some ideas to get you started:
 
 -
 -->
-![](https://raw.githubusercontent.com/UjjalRoy22/github-stats/master/generated/overview.svg)
-![](https://raw.githubusercontent.com/UjjalRoy22/github-stats/master/generated/languages.svg)
 
 
 ![GitHub Streak](https://api.githubtrends.io/user/svg/UjjalRoy22/langs?time_range=one_year&use_percent=True&theme=bright_lights)
 
+![](https://raw.githubusercontent.com/UjjalRoy22/github-stats/master/generated/overview.svg)
+![](https://raw.githubusercontent.com/UjjalRoy22/github-stats/master/generated/languages.svg)
