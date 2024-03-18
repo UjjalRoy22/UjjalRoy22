@@ -1,6 +1,11 @@
-### Hi there 👋 I am Ujjal Roy.| M.Tech Student | CSE | CIT Kokrajhar |
- **I’m currently working on Blockchain, AI, ML & IoT. 
- You can Contact me via erujjalroy@gmail.com**
+### Hi there 👋 I am Ujjal Roy🎓 B.Tech in Computer Science Engineering | M.Tech Scholar at Central Institute of Technology, Kokrajhar
+
+### 💼 Skilled in: C, C++, Java, Python, Solidity, HTML, CSS, MySQL
+
+### 🔍 Passionate about: Blockchain, IoT, AI, Cyber Security, and Network Security
+
+### 🚀 Actively seeking opportunities to contribute and grow in the intersection of cutting-edge technologies, with a focus on leveraging expertise in programming languages and keen interest in emerging fields like Blockchain, IoT, AI, and Cyber Security.
+ ### You can Contact me via erujjalroy@gmail.com
 
 
  ## 🔧 Technologies & Tools
