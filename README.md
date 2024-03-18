@@ -2,6 +2,10 @@
  **I’m currently working on Blockchain, AI, ML & IoT. 
  You can Contact me via erujjalroy@gmail.com**
 
+ ## &#x1f4c8; My Stats
+
+![](https://komarev.com/ghpvc/?username=UjjalRoy22)
+
 <!--
 **UjjalRoy22/UjjalRoy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
