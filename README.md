@@ -10,7 +10,7 @@
 
  ## 🔧 Technologies & Tools
 
-<code><img src="https://docs.soliditylang.org/en/v0.8.15/_static/logo.svg" alt="solidity" width="40" height="40"/></code> 
+<code><img height="30" src="https://docs.soliditylang.org/en/v0.8.15/_static/logo.svg" alt="solidity" width="40" /></code> 
 
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
