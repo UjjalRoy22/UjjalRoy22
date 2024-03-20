@@ -2,7 +2,7 @@
 
 ### 💼 Skilled in: C, C++, Java, Python, Solidity, HTML, CSS, MySQL
 
-### 🔍 Passionate about: Blockchain, IoT, AI, Cyber Security, and Network Security
+### 🔍 Passionate about: Blockchain, IoT, AI, Cyber Security, and Network Security.
 
 ### 🚀 Actively seeking opportunities to contribute and grow in the intersection of cutting-edge technologies, with a focus on leveraging expertise in programming languages and keen interest in emerging fields like Blockchain, IoT, AI, and Cyber Security.
  ### You can Contact me via erujjalroy@gmail.com
