@@ -42,6 +42,8 @@ Here are some ideas to get you started:
 
 ![GitHub Trends SVG](https://api.githubtrends.io/user/svg/UjjalRoy22/langs?time_range=one_year&use_percent=True&include_private=True&theme=classic)
 
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/UjjalRoy22/repos?time_range=one_year&include_private=True&group=other&loc_metric=changed&theme=bright_lights)
+
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=UjjalRoy22&show_icons=true&locale=en" alt="UjjalRoy22" /></p>
 
