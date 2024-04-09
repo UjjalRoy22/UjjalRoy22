@@ -30,7 +30,6 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=UjjalRoy22&theme=github-light&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 
-
 <!--
 **UjjalRoy22/UjjalRoy22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -41,7 +40,7 @@ Here are some ideas to get you started:
 -
 -->
 
-[Github Streak](https://api.githubtrends.io/user/svg/UjjalRoy22/langs?time_range=one_year&use_percent=True&include_private=True&theme=bright_lights)
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/UjjalRoy22/langs?time_range=one_year&use_percent=True&include_private=True&theme=ferns)
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=UjjalRoy22&show_icons=true&locale=en" alt="UjjalRoy22" /></p>
