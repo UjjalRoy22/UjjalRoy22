@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 -
 -->
 
-![GitHub Trends SVG](https://api.githubtrends.io/user/svg/UjjalRoy22/langs?time_range=one_year&use_percent=True&include_private=True&theme=ferns)
+![GitHub Trends SVG](https://api.githubtrends.io/user/svg/UjjalRoy22/langs?time_range=one_year&use_percent=True&include_private=True&theme=classic)
 
 
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=UjjalRoy22&show_icons=true&locale=en" alt="UjjalRoy22" /></p>
