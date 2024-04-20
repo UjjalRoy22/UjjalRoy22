@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Ujjal Roy 🎓 B.Tech in Computer Science Engineering | M.Tech Scholar @ Central Institute of Technology, Kokrajhar.
 
-### 💼 Skilled in: C, C++, Java, Python, Solidity, HTML, CSS, MySQL.
+### 💼 Skilled in: C, C++, Java, Python, Solidity, HTML, CSS, My SQL.
 
 ### 🔍 Passionate about: Blockchain, IoT, AI, Cyber Security.
 
