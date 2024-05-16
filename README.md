@@ -2,7 +2,7 @@
 
 ### 💼 Skilled in: C, C++, Java, Python, Solidity, HTML, CSS, MySQL.
 
-### 🔍 Passionate about: Blockchain, IoT, AI, Cyber Security.
+### 🔍 Passionate about: Blockchain,IoT, AI, Cyber Security.
 
 ### 🚀 Actively seeking opportunities to contribute and grow in the intersection of cutting-edge technologies, with a focus on leveraging expertise in programming languages and keen interest in emerging fields like Blockchain, AI, IoT and Cyber Security.
 
