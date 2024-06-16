@@ -1,4 +1,4 @@
-### Hi there 👋 I'm Ujjal Roy 🎓 B.Tech in Computer Science Engineering | M.Tech Scholar @ Central Institute of Technology, Kokrajhar.
+### Hi there 👋 I'm Ujjal Roy 🎓 M.Tech in Computer Science Engineering @ Central Institute of Technology, Kokrajhar.
 
 ### 💼 Skilled in: C, C++, Java, Python, Solidity, HTML, CSS, MySQL.
 
